@@ -1,0 +1,59 @@
+Nombre: Min Yoon Gi
+Se desempeña como: Back-end Web Developer
+
+
+Detalles del Contacto
+Dirección: Lafinur 3255, 10mo piso. CABA
+Celular: + 54 911 5555 7777
+Correo electrónico: suga@bighit.kr
+
+
+Educación Universitario 
+Licenciatura en Sistemas - CAECE
+
+
+Skills Técnicos
+
+HTML
+CSS
+Javascript
+Python
+SQL (MySQL, PostgreSQL)
+Data Analisis
+
+
+
+Trabajos en los que se desmpeña
+
+Desarrollador Web - Codeando S.R.L.
+2020 - Actualidad / CABA
+
+Participé en 3 cursos de capacitación de educación continua para aprender prácticas modernas y nuevos lenguajes de codificación.
+Gestioné el desarrollo y mantenimiento de 11 aplicaciones del lado del cliente y del lado del servidor.
+Trabajé en colaboración con 2 equipos de desarrollo para identificar problemas en el ciclo de vida de desarrollo de software (SDLC) y el alcance del proyecto.
+Desarrollé e implementé nuevos algoritmos computacionales y herramientas de software, lo que redujo el tiempo de finalización del proyecto en aproximadamente un 25 %.
+
+
+Junior Web Developer - JS Desarrolladores
+2017 - 2020 / Pilar, Pcia de Buenos Aires
+
+Compilé y analicé más de 300 sets de datos, procesos y bases de código y resolución de problemas para identificar mejoras.
+Colaboré con 6 desarrolladores front-end y más de 10 miembros del equipo para establecer objetivos.
+Diseñé unas 7 aplicaciones web funcionales y cohesivas para mejorar la experiencia de los usuarios finales.
+Colaboré con ideas para 3 nuevos programas, productos y características por monitorear los desarrollos y tendencias de la industria.
+
+
+Junior Web Developer - Buefest
+2015 - 2017 / CABA
+
+Creé, codifiqué y mejoré más de 20 servidores, del lado del servidor, aplicaciones y bases de datos.
+ Implementé encuestas a usuarios, aumentando la satisfacción del usuario en un 34%.
+Se mejoraron 6 aplicaciones back-end mediante pruebas y solución de problemas, aumentando la efectividad del procesamiento en un 18%.
+Analicé l versión actual del código y los desarrollos de la compañia para formular mejoras, aumentando la eficiencia en un 21%
+
+
+
+Logros
+
+Bono por desempeño en Buefest años 2015 y 2016
+Bono por excelencia en la colaboración con clientes 2019
