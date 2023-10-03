@@ -3,11 +3,47 @@
 
 body, html {
     font-family: "Open-sans", sans-serif;
-    display: flex;
     min-width: 800px;
     font-size: 1 rem;
     height: 100%;
 } 
+
+.main-content{
+    display:flex;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #2C5A9A;
+    padding: 10px;
+    color: white;
+}
+
+.nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-photo img {
+    border-radius: 50%;
+}
+
+.nav-links {
+    display: flex;
+    gap: 10px;
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
 .sidebar {
     width: auto;
     height: auto;
